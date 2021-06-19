@@ -1,0 +1,15 @@
+E:\GitHub\QRCodeTools\ThoughtWorks.QRCode\bin\Debug\ThoughtWorks.QRCode.dll
+E:\GitHub\QRCodeTools\ThoughtWorks.QRCode\bin\Debug\ThoughtWorks.QRCode.pdb
+E:\GitHub\QRCodeTools\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.Properties.Resources.resources
+E:\GitHub\QRCodeTools\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.csproj.GenerateResource.Cache
+E:\GitHub\QRCodeTools\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.dll
+E:\GitHub\QRCodeTools\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.pdb
+E:\GitHub\QRCodeTools\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.csprojResolveAssemblyReference.cache
+F:\迅雷下载\QRCodeTools-master\ThoughtWorks.QRCode\bin\Debug\ThoughtWorks.QRCode.dll
+F:\迅雷下载\QRCodeTools-master\ThoughtWorks.QRCode\bin\Debug\ThoughtWorks.QRCode.pdb
+F:\迅雷下载\QRCodeTools-master\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.csproj.AssemblyReference.cache
+F:\迅雷下载\QRCodeTools-master\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.Properties.Resources.resources
+F:\迅雷下载\QRCodeTools-master\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.csproj.GenerateResource.cache
+F:\迅雷下载\QRCodeTools-master\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.csproj.CoreCompileInputs.cache
+F:\迅雷下载\QRCodeTools-master\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.dll
+F:\迅雷下载\QRCodeTools-master\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.pdb

@@ -1,0 +1,6 @@
+F:\迅雷下载\QRCoder-master\QRCoder\bin\Debug\net35\QRCoder.dll
+F:\迅雷下载\QRCoder-master\QRCoder\bin\Debug\net35\QRCoder.pdb
+F:\迅雷下载\QRCoder-master\QRCoder\obj\Debug\net35\QRCoder.csproj.CoreCompileInputs.cache
+F:\迅雷下载\QRCoder-master\QRCoder\obj\Debug\net35\QRCoder.dll
+F:\迅雷下载\QRCoder-master\QRCoder\obj\Debug\net35\QRCoder.pdb
+F:\迅雷下载\QRCoder-master\QRCoder\obj\Debug\net35\QRCoder.csproj.AssemblyReference.cache
